@@ -1,0 +1,1 @@
+SELECT day, count(*) as total_assigments from assignments group by day ORDER BY day ASC;
