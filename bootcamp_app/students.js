@@ -6,7 +6,7 @@ const pool = new Pool({
   user: 'labber',
   password: '123',
   host: 'localhost',
-  database: 'labber'
+  database: 'bootcampx'
 });
 
 

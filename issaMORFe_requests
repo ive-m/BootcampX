@@ -1,0 +1,87 @@
+     teacher      |      student      |            name            | duration 
+------------------+-------------------+----------------------------+----------
+ Roberto Towne    | Donnie Lueilwitz  | Omnis et sit               | 00:03:20
+ Rosalyn Raynor   | Hiram Veum        | Tempora atque nihil        | 00:03:20
+ Rosalyn Raynor   | Pamela Runolfsson | Cumque aut repellendus     | 00:03:40
+ Roberto Towne    | Stan Miller       | Hic soluta                 | 00:03:40
+ Helmer Rodriguez | Armand Hilll      | Necessitatibus minus       | 00:04:00
+ Helmer Rodriguez | Stephanie Wolff   | Incidunt eos voluptatum    | 00:04:00
+ Roberto Towne    | Stephanie Wolff   | Voluptates cumque          | 00:04:00
+ Roberto Towne    | Obie Howell       | Assumenda magnam tempore   | 00:04:20
+ Roberto Towne    | Lionel Morar      | Tempora atque nihil        | 00:04:20
+ Roberto Towne    | Stan Miller       | Consequatur ut repellendus | 00:04:20
+ Helmer Rodriguez | Lloyd Boehm       | Tempora atque nihil        | 00:04:20
+ Rosalyn Raynor   | Pamela Runolfsson | Adipisci est               | 00:04:20
+ Helmer Rodriguez | Maximillia Willms | Incidunt eos voluptatum    | 00:04:45
+ Roberto Towne    | Edison Brown      | Incidunt eos voluptatum    | 00:05:00
+ Rosalyn Raynor   | Maximillia Willms | Cumque aut repellendus     | 00:05:00
+ Roberto Towne    | Stan Miller       | Omnis distinctio           | 00:05:00
+ Roberto Towne    | Hiram Veum        | Voluptatem quas quia       | 00:05:20
+ Rosalyn Raynor   | Erna Cassin       | Hic est                    | 00:05:30
+ Rosalyn Raynor   | Elliot Dickinson  | Omnis iusto                | 00:05:30
+ Helmer Rodriguez | Carmel Grant      | Omnis et sit               | 00:05:40
+ Helmer Rodriguez | Obie Howell       | Cumque aut repellendus     | 00:05:40
+ Helmer Rodriguez | Clint Cremin      | Incidunt eos voluptatum    | 00:06:00
+ Roberto Towne    | Brian Jones       | Incidunt eos voluptatum    | 00:06:00
+ Rosalyn Raynor   | Elliot Dickinson  | Distinctio odit rerum      | 00:06:00
+ Rosalyn Raynor   | Clint Cremin      | Tenetur voluptatem         | 00:06:30
+ Rosalyn Raynor   | Armand Hilll      | Omnis iusto                | 00:06:40
+ Helmer Rodriguez | Armand Hilll      | Adipisci est               | 00:07:20
+ Roberto Towne    | Lloyd Boehm       | Omnis distinctio           | 00:07:20
+ Helmer Rodriguez | Elliot Dickinson  | Adipisci est               | 00:07:30
+ Rosalyn Raynor   | Erna Cassin       | Omnis iusto                | 00:08:30
+ Rosalyn Raynor   | Clint Cremin      | Et repellendus id          | 00:08:30
+ Roberto Towne    | Lynn Kilback      | Hic soluta                 | 00:08:30
+ Rosalyn Raynor   | Pamela Runolfsson | Assumenda magnam tempore   | 00:09:00
+ Rosalyn Raynor   | Colten Gutkowski  | Incidunt eos voluptatum    | 00:09:20
+ Helmer Rodriguez | Armand Hilll      | Incidunt eos voluptatum    | 00:09:20
+ Helmer Rodriguez | Lynn Kilback      | Omnis iusto                | 00:09:30
+ Roberto Towne    | Lynn Kilback      | Assumenda magnam tempore   | 00:09:30
+ Helmer Rodriguez | Pamela Runolfsson | Necessitatibus minus       | 00:10:00
+ Rosalyn Raynor   | Lynn Kilback      | Incidunt eos voluptatum    | 00:10:30
+ Helmer Rodriguez | Armand Hilll      | Omnis distinctio           | 00:10:40
+ Rosalyn Raynor   | Edison Brown      | Et repellendus id          | 00:10:40
+ Rosalyn Raynor   | Stan Miller       | Architecto odio quos       | 00:10:40
+ Helmer Rodriguez | Lynn Kilback      | Tempora atque nihil        | 00:11:00
+ Rosalyn Raynor   | Erna Cassin       | Omnis iusto                | 00:11:00
+ Rosalyn Raynor   | Erna Cassin       | Distinctio odit rerum      | 00:11:30
+ Roberto Towne    | Armand Hilll      | Architecto odio quos       | 00:11:40
+ Rosalyn Raynor   | Stephanie Wolff   | Distinctio odit rerum      | 00:12:00
+ Rosalyn Raynor   | Brian Jones       | Cumque aut repellendus     | 00:12:20
+ Roberto Towne    | Lloyd Boehm       | Adipisci est               | 00:12:40
+ Rosalyn Raynor   | Obie Howell       | Nihil eius                 | 00:13:00
+ Rosalyn Raynor   | Colten Gutkowski  | Tenetur voluptatem         | 00:13:00
+ Rosalyn Raynor   | Stephanie Wolff   | Iste numquam               | 00:13:00
+ Rosalyn Raynor   | Carmel Grant      | Nihil eius                 | 00:13:00
+ Rosalyn Raynor   | Brian Jones       | Adipisci est               | 00:13:40
+ Rosalyn Raynor   | Lynn Kilback      | Amet dolores               | 00:14:00
+ Roberto Towne    | Erna Cassin       | Omnis iusto                | 00:14:00
+ Rosalyn Raynor   | Hiram Veum        | Hic soluta                 | 00:14:20
+ Rosalyn Raynor   | Erna Cassin       | Tempora atque nihil        | 00:14:30
+ Rosalyn Raynor   | Clint Cremin      | Nihil eius                 | 00:15:00
+ Rosalyn Raynor   | Stan Miller       | Aliquam tempora            | 00:15:40
+ Roberto Towne    | Stan Miller       | Cumque aut repellendus     | 00:15:40
+ Helmer Rodriguez | Armand Hilll      | Ea totam iste              | 00:15:40
+ Roberto Towne    | Obie Howell       | Aliquam tempora            | 00:16:00
+ Rosalyn Raynor   | Stan Miller       | Voluptatem quas quia       | 00:16:00
+ Roberto Towne    | Lynn Kilback      | Hic soluta                 | 00:16:00
+ Rosalyn Raynor   | Edison Brown      | Voluptatem quas quia       | 00:16:20
+ Rosalyn Raynor   | Carmel Grant      | Adipisci est               | 00:16:20
+ Roberto Towne    | Elliot Dickinson  | Et repellendus id          | 00:16:30
+ Rosalyn Raynor   | Stephanie Wolff   | Aliquam tempora            | 00:16:40
+ Rosalyn Raynor   | Edison Brown      | Aliquam tempora            | 00:17:00
+ Rosalyn Raynor   | Carmel Grant      | Hic soluta                 | 00:18:00
+ Helmer Rodriguez | Lloyd Boehm       | Cumque aut repellendus     | 00:18:00
+ Helmer Rodriguez | Armand Hilll      | Distinctio odit rerum      | 00:18:40
+ Roberto Towne    | Clint Cremin      | Nihil eius                 | 00:19:00
+ Rosalyn Raynor   | Donnie Lueilwitz  | Hic est                    | 00:19:20
+ Roberto Towne    | Colten Gutkowski  | Assumenda magnam tempore   | 00:19:20
+ Rosalyn Raynor   | Lloyd Boehm       | Amet dolores               | 00:19:40
+ Roberto Towne    | Elliot Dickinson  | Omnis iusto                | 00:20:30
+ Rosalyn Raynor   | Clint Cremin      | Et repellendus id          | 00:21:00
+ Rosalyn Raynor   | Lynn Kilback      | Hic soluta                 | 00:22:30
+ Roberto Towne    | Erna Cassin       | Assumenda magnam tempore   | 00:23:00
+ Rosalyn Raynor   | Erna Cassin       | Et repellendus id          | 00:24:30
+ Helmer Rodriguez | Elliot Dickinson  | Adipisci est               | 00:29:30
+(83 rows)
+
